@@ -1,0 +1,7 @@
+{
+  "name": "Mesho",
+  "description": "A smart accommodation finder for students in Blantyre, Malawi, featuring AI-powered search and listing assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
